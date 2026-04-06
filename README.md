@@ -1,3 +1,2 @@
-# My-first-repo
-BSIT-2E
+Hi, I'm a student who is currently learning programming. I enjoy creating simple systems and continuously improving my coding skills.
 
